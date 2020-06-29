@@ -5,4 +5,5 @@ def snake_it_up(string)
     s = "ssssssssss"
     "#{s}#{string}"
     binding.pry
+  end
 end
